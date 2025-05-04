@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif; 
+    margin: 20px;          
+  }
+
+  .posts h2 {
+    color: #0e75e2;    
+    margin-bottom: 5px;  
+    padding-bottom: 5px ;
+  }
+    
+  .posts p {
+    margin-bottom: 20px; 
+    border-bottom: 1px solid #121010; 
+    padding-bottom: 20px; 
+  }
